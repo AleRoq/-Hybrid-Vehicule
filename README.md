@@ -1,24 +1,24 @@
 # -Hybrid-Vehicule
-Licencias de descuento
-Una colección de licencias de código abierto en formato Markdown .
+Markdown Licenses
+A collection of open source licenses in Markdown format.
 
-¡Las solicitudes de extracción con nuevas licencias siempre son bienvenidas!
+Pull requests with new licenses are always welcome!
 
-¿Por qué Markdown?
-¡Porque es bonito! Pero lo más importante, es más fácil de leer; después de todo, las licencias las leen los humanos, no las computadoras.
+Why Markdown?
+Because it's pretty! But most importantly, it's easier to read; after all, licenses are read by humans, not computers.
 
-Compara estos dos archivos:
+Compare these two files:
 
-GNU GPL v3 - Versión original en texto plano
-GNU GPL v3 - Versión con formato Markdown
-¿No es editar la licencia una violación de la licencia?
-Algunas licencias tienen líneas como esta que se encuentra en GNU GPL v3 :
+GNU GPL v3 - Original plaintext version
+GNU GPL v3 - Markdown formatted version
+Isn't editing the license a violation of the license?
+Some licenses have lines like this one found in GNU GPL v3:
 
-Todo el mundo puede copiar y distribuir copias textuales de este documento de licencia, pero no está permitido cambiarlo .
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
-No soy un experto legal, sin embargo, teniendo en cuenta que GNU proporciona una lista de sus licencias en varios formatos , asumiría que siempre que la redacción original permanezca intacta, se permite la modificación del formato (dentro de lo razonable).
+I'm no legal expert, however, considering that GNU provides a list of their licenses in various formats, I would assume that so long as the original wording remains intact, modification to the formatting (within reason) is allowed.
 
-En caso de incendio
-Si hay alguna incoherencia entre la licencia con formato de descuento y la licencia que representa, consulte la licencia original (que se encuentra en CRÉDITOS.md ) para obtener la redacción correcta .
+In the event of a fire
+If there is any inconsistency between the markdown formatted license and the license it represents, please refer to the original license (found in CREDITS.md) for the correct wording.
 
-Lea las licencias con anticipación para asegurarse de que sean correctas y utilícelas bajo su propio riesgo. Aunque nos hemos esforzado por mantener la redacción de la licencia idéntica a la original, no somos responsables de las implicaciones legales causadas por las discrepancias en las licencias.
+Please read the licenses ahead of time to make sure they are correct, and use them at your own risk. Although we have strived to keep the license wording identical to the originals, we are not responsible for any legal implications caused by discrepancies in the licenses.
